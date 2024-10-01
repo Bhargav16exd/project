@@ -112,9 +112,7 @@ function CrousolComponent(){
          <a   href="#item2"  className={`mx-4 py-1 px-2 rounded-xl  bg-${select.Analytics} text-${txt.Analytics}`} onClick={handleAnalytics}>Analytics</a>
          <a   href="#item3" className={`mx-4 py-1 px-2 rounded-xl  bg-${select.Upgrade}   text-${txt.Upgrade}`}   onClick={handleUpgrade}>Upgrade</a>
        </div>
-
      </div>
-
 
 
 
